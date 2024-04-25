@@ -7,3 +7,5 @@ media = (x+y)/2
 print("O valor de x é", x, "!")
 print('O valor de y é', y)
 print('A media dos valores é', round(media, 3))
+
+cr7 o melhor
